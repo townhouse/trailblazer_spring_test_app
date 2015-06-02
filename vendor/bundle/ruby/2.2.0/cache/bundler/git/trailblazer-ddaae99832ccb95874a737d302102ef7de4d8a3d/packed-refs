@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled 
+595229e99a8d75daabd04eb94b99a8e8a13f3767 refs/heads/controller-ivars
+60ca8b31f07a7e28049316d15119cc02c2146b0b refs/heads/crud-autoload
+075a6470ee6e5bb62cfb7c41771ed1eb5f48f3f9 refs/heads/dotted-table-name
+bdb92e3ea8d1b20308768544c41f9b7d6caf46f1 refs/heads/file-marshal
+32447d8b1634fcba56664f715afbeb27656241fd refs/heads/gh-pages
+462b947265b6f68d9ae0c0ce337bce6553c2ae87 refs/heads/inheritable-contract
+0091a447414f0f3a33a14b2802380cf1da5abab6 refs/heads/master
+44ec1589d4508c9064bab5b49e7bf8559576857b refs/heads/model_name
+97a72fd174ba5f4adc3187f0ffc945cdc0d3336d refs/heads/setup-params
+e5fa17d5deb35d4271ff51053d9abc270cd17032 refs/tags/v0.1.0
+60ca8b31f07a7e28049316d15119cc02c2146b0b refs/tags/v0.1.2
+df2d0c785e8ef8ae2cea7fd70d4190e3db3950d2 refs/tags/v0.2.0
+97a72fd174ba5f4adc3187f0ffc945cdc0d3336d refs/tags/v0.2.1
+5bf62ef781f27670c463a3f4432854728b43b8b7 refs/tags/v0.2.2

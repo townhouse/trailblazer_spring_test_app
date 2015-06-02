@@ -1,0 +1,9 @@
+/Users/simon/.rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150602-35263-8a4dej.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
